@@ -4,10 +4,10 @@ import com.dottormarmitta.acf.discountCurve.ConstantRateCurve;
 import com.dottormarmitta.acf.discountCurve.DiscountCurve;
 import com.dottormarmitta.acf.options.CallOption;
 import com.dottormarmitta.acf.options.Option;
+import com.dottormarmitta.acf.processGeneration.BlackScholesModel;
+import com.dottormarmitta.acf.processGeneration.RandomProcess;
 import com.dottormarmitta.acf.time.Tenor;
 import com.dottormarmitta.acf.time.TenorImplementation;
-import com.dottormarmitta.processGeneration.BlackScholesModel;
-import com.dottormarmitta.processGeneration.RandomProcess;
 
 public class BlackScholesCall {
 

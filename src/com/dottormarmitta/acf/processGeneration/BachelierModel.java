@@ -1,4 +1,4 @@
-package com.dottormarmitta.processGeneration;
+package com.dottormarmitta.acf.processGeneration;
 
 import java.util.Random;
 

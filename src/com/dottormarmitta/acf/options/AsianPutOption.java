@@ -1,8 +1,8 @@
 package com.dottormarmitta.acf.options;
 
 import com.dottormarmitta.acf.discountCurve.DiscountCurve;
+import com.dottormarmitta.acf.processGeneration.RandomProcess;
 import com.dottormarmitta.acf.time.Tenor;
-import com.dottormarmitta.processGeneration.RandomProcess;
 
 public class AsianPutOption implements Option {
 

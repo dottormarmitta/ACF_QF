@@ -1,4 +1,4 @@
-package com.dottormarmitta.processGeneration;
+package com.dottormarmitta.acf.processGeneration;
 
 import com.dottormarmitta.acf.processModel.ProcessTenor;
 import com.dottormarmitta.acf.time.Tenor;
