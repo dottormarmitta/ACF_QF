@@ -1,5 +1,11 @@
 package com.dottormarmitta.acf.time;
 
+/**
+ * Implementation of the Tenor interface
+ * 
+ * @author Guglielmo Del Sarto, LMU & UniBo
+ * @date April 2021
+ */
 public class TenorImplementation implements Tenor {
 	
 	final double[] tenorStructure;

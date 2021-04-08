@@ -22,8 +22,8 @@ public interface Tenor {
 	 * It returns:
 	 *  dt = (t_i+1 - t_i)
 	 *  
-	 *  @param index
-	 *  @return ti+1 - ti
+	 * @param index
+	 * @return ti+1 - ti
 	 */
 	public double getTimeStep(int index);
 	
